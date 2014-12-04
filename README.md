@@ -40,6 +40,10 @@ If you are unsure if you have a Java Virtual Machine installed on your computer,
     Java(TM) SE Runtime Environment (build 1.6.0_25-b06)
     Java HotSpot(TM) 64-Bit Server VM (build 20.0-b11, mixed mode)
 
+## How to build
+
+You need [Apache Maven](http://maven.apache.org/). Simply run `mvn package` at the root directory. You should get a tcprelay-<version>.zip file in the target folder.
+
 
 ## TCPRelay Instructions
 
