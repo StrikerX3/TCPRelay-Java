@@ -179,7 +179,6 @@ jun-fu-wu:
 
 ## Contact
 
-- [E-mail](mailto:ivan.rober@gmail.com)
 - [Twitter (@StrikerX3)](https://twitter.com/StrikerX3)
 - [XSplit forums](http://www.xsplit.com/forum) ([StrikerX3](https://support.xsplit.com/forum/memberlist.php?mode=viewprofile&u=51690)) ([Official topic](http://www.xsplit.com/forum/viewtopic.php?f=2&t=7159))
 - [My blog](http://strikerx3.blogspot.com/)
